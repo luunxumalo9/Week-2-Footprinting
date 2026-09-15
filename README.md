@@ -3,7 +3,6 @@ Cybersecurity Internship project (Networkwalks)
 Passive recon against networkwalks.com using Kali Linux  tools, performed under written authorization (LETTER OF AUTHORIYATION ON FILE)
 
 Tools used:
-
 *whois - Looked up domain registration and ownership details
 
 *whatweb -  fingerprinted the web technologies and CMS in use
