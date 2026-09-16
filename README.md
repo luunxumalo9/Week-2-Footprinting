@@ -9,4 +9,4 @@ Tools used:
 * curl -I - pulled up the HTTP response headers
 * wafw00f - checked for a Web Application Firewall
 * dnsrecon - enumerates DNS records (name servers, MX, TXT, etc.)
-* Maltego - ran a "To Email address [From whois]" transform on the domain to discover associated email addresses
+
