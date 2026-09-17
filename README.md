@@ -10,7 +10,7 @@ Tools used:
 * wafw00f - checked for a Web Application Firewall
 * dnsrecon - enumerates DNS records (name servers, MX, TXT, etc.)
 * theHarvester - gathered emails, subdomains, and hosts related to the domain from public sources
-* Maltego - ran a "To Email address {From whois}" transform on the domain entity found abuse@godaddy.com (WHOIS privacy via GODADDY proxy)
+* Maltego - ran a "To Email address {From whois}" transform on the domain entity found a email info@networkwalks.com (WHOIS privacy via network walks proxy)
 
 ## Google Hacking Database (GHDB) Dorks
 
