@@ -18,3 +18,17 @@ Separate footprinting exercise using advanced Google search operators to identif
 
 *Task 1 - Found 10 live exposed security camera links using GHDB dorks, recorded with link, relevant dork and any exposed credentials.
 *Task 2 - Found open directory listings containing downloadable mathematics PDF ebooks using the dork 'intitle:index.of "parent directory" mathematics pdf' recorded in the same table format.
+
+## Network Scanning with Zenmap/Nmap
+
+As part of my cybersecurity internship, I used Zenmap (Nmap's GUI) to perform host discovery on my lab network.
+
+## Findings 
+* Scanned subnet: 10.0.0.0/24
+* live hosts discovered: 3
+* 10.0.0.1 - MAC 52:54:12:35:00 (QEMU VIRTUAL NIC)
+* 10.0.0.2 - MAC 08:00:27:01:90:FC (Oracle VirtualBox virtual NIC) Kali VM
+* 10.0.0.3 - local scanning host
+* Scan completed in 3.09 seconds across 256 addresses
+
+  This exercise reinforced how ARP-based host discovery works on a local network segment, and how MAC address resolution differs for local vs. remote hosts.
